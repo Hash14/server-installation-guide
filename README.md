@@ -1,4 +1,4 @@
-# server-installation-guide
+# Use this guide to setup a new server
 
 For new user
 ```
