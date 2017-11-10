@@ -1,4 +1,4 @@
-# Use this guide to setup a new server
+# Use this guide to setup a new server with Ruby on Rails and Node
 
 For new user
 ```
